@@ -1,2 +1,2 @@
 export * from './theme-button';
-export * from './layout';
+export * from './locale-button';
